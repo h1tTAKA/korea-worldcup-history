@@ -1,0 +1,66 @@
+[
+  {
+    "id": "g-01",
+    "title": "2002 스페인전 승부차기 승리",
+    "year": 2002,
+    "category": "moment",
+    "image": "https://images.unsplash.com/photo-1540553016722-983e3db4b85f?w=600&q=80",
+    "description": "8강에서 스페인을 승부차기로 꺾으며 4강 진출을 확정 지었다."
+  },
+  {
+    "id": "g-02",
+    "title": "박지성 포르투갈전 결승골",
+    "year": 2002,
+    "category": "goal",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&q=80",
+    "description": "2002년 조별리그 포르투갈전에서 박지성이 결승골을 넣으며 16강 진출을 확정지었다."
+  },
+  {
+    "id": "g-03",
+    "title": "황선홍의 마지막 월드컵 골",
+    "year": 2002,
+    "category": "goal",
+    "image": "https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=600&q=80",
+    "description": "2002년 4강에서 황선홍이 독일을 상대로 은퇴 전 마지막 월드컵 골을 터뜨렸다."
+  },
+  {
+    "id": "g-04",
+    "title": "2018 독일 격파",
+    "year": 2018,
+    "category": "moment",
+    "image": "https://images.unsplash.com/photo-1546608235-3310a2494cdf?w=600&q=80",
+    "description": "손흥민의 쐐기골로 디펜딩 챔피언 독일을 2-0으로 격파한 역사적인 순간."
+  },
+  {
+    "id": "g-05",
+    "title": "2010 원정 16강 진출",
+    "year": 2010,
+    "category": "moment",
+    "image": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?w=600&q=80",
+    "description": "그리스를 2-0으로 꺾고 원정 최초로 16강에 진출한 역사적인 경기."
+  },
+  {
+    "id": "g-06",
+    "title": "황희찬 90+1분 극장골",
+    "year": 2022,
+    "category": "goal",
+    "image": "https://images.unsplash.com/photo-1508098682722-e99c643e7f0b?w=600&q=80",
+    "description": "2022 카타르 월드컵 포르투갈전 인저리타임 1분의 기적. 대한민국을 16강으로 이끈 결승골."
+  },
+  {
+    "id": "g-07",
+    "title": "1994 독일전 3-3 무승부",
+    "year": 1994,
+    "category": "moment",
+    "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&q=80",
+    "description": "미국 월드컵에서 독일과 3-3으로 비기며 전 세계를 깜짝 놀라게 한 명승부."
+  },
+  {
+    "id": "g-08",
+    "title": "2026 아쉬운 탈락",
+    "year": 2026,
+    "category": "sad",
+    "image": "https://images.unsplash.com/photo-1551958219-acbc595b74e8?w=600&q=80",
+    "description": "홍명보호가 조별리그에서 탈락하며 한국 축구의 과제를 남긴 대회."
+  }
+]
