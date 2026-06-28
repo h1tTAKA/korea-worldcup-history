@@ -1,0 +1,52 @@
+[
+  {
+    "id": "p1",
+    "name": "박지성",
+    "nameEn": "Park Ji-sung",
+    "position": "MF",
+    "caps": 100,
+    "goals": 13,
+    "tournaments": [2002, 2006, 2010],
+    "highlight": "맨체스터 유나이티드 주전, 아시아 최고의 미드필더"
+  },
+  {
+    "id": "p2",
+    "name": "손흥민",
+    "nameEn": "Son Heung-min",
+    "position": "FW",
+    "caps": 130,
+    "goals": 35,
+    "tournaments": [2014, 2018, 2022, 2026],
+    "highlight": "토트넘 역대 최다골, 아시아 선수 최초 EPL 득점왕"
+  },
+  {
+    "id": "p3",
+    "name": "황선홍",
+    "nameEn": "Hwang Sun-hong",
+    "position": "FW",
+    "caps": 103,
+    "goals": 50,
+    "tournaments": [1990, 1994, 1998, 2002],
+    "highlight": "한국 역대 최다골 기록(50골) 보유"
+  },
+  {
+    "id": "p4",
+    "name": "홍명보",
+    "nameEn": "Hong Myung-bo",
+    "position": "DF",
+    "caps": 136,
+    "goals": 10,
+    "tournaments": [1990, 1994, 1998, 2002],
+    "highlight": "2002 동메달 신화의 주장, 아시아 최고 수비수"
+  },
+  {
+    "id": "p5",
+    "name": "황희찬",
+    "nameEn": "Hwang Hee-chan",
+    "position": "FW",
+    "caps": 70,
+    "goals": 18,
+    "tournaments": [2022, 2026],
+    "highlight": "2022 포르투갈전 극적인 역전 결승골"
+  }
+]

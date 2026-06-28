@@ -1,0 +1,13 @@
+[
+  { "id": "m1954-1", "tournamentId": "1954", "year": 1954, "round": "조별리그", "opponent": "헝가리", "opponentFlag": "🇭🇺", "scoreKorea": 0, "scoreOpponent": 9, "result": "L", "date": "1954-06-17", "venue": "취리히" },
+  { "id": "m1954-2", "tournamentId": "1954", "year": 1954, "round": "조별리그", "opponent": "터키", "opponentFlag": "🇹🇷", "scoreKorea": 0, "scoreOpponent": 7, "result": "L", "date": "1954-06-20", "venue": "제네바" },
+  { "id": "m2002-1", "tournamentId": "2002", "year": 2002, "round": "조별리그", "opponent": "폴란드", "opponentFlag": "🇵🇱", "scoreKorea": 2, "scoreOpponent": 0, "result": "W", "date": "2002-06-04", "venue": "부산" },
+  { "id": "m2002-2", "tournamentId": "2002", "year": 2002, "round": "조별리그", "opponent": "미국", "opponentFlag": "🇺🇸", "scoreKorea": 1, "scoreOpponent": 1, "result": "D", "date": "2002-06-10", "venue": "대구" },
+  { "id": "m2002-3", "tournamentId": "2002", "year": 2002, "round": "조별리그", "opponent": "포르투갈", "opponentFlag": "🇵🇹", "scoreKorea": 1, "scoreOpponent": 0, "result": "W", "date": "2002-06-14", "venue": "인천" },
+  { "id": "m2002-4", "tournamentId": "2002", "year": 2002, "round": "16강", "opponent": "이탈리아", "opponentFlag": "🇮🇹", "scoreKorea": 2, "scoreOpponent": 1, "result": "W", "date": "2002-06-18", "venue": "대전", "note": "연장전" },
+  { "id": "m2002-5", "tournamentId": "2002", "year": 2002, "round": "8강", "opponent": "스페인", "opponentFlag": "🇪🇸", "scoreKorea": 0, "scoreOpponent": 0, "result": "W", "date": "2002-06-22", "venue": "광주", "note": "승부차기 승" },
+  { "id": "m2002-6", "tournamentId": "2002", "year": 2002, "round": "4강", "opponent": "독일", "opponentFlag": "🇩🇪", "scoreKorea": 0, "scoreOpponent": 1, "result": "L", "date": "2002-06-25", "venue": "서울" },
+  { "id": "m2002-7", "tournamentId": "2002", "year": 2002, "round": "3·4위", "opponent": "터키", "opponentFlag": "🇹🇷", "scoreKorea": 2, "scoreOpponent": 3, "result": "L", "date": "2002-06-29", "venue": "대구" },
+  { "id": "m2018-1", "tournamentId": "2018", "year": 2018, "round": "조별리그", "opponent": "독일", "opponentFlag": "🇩🇪", "scoreKorea": 2, "scoreOpponent": 0, "result": "W", "date": "2018-06-27", "venue": "카잔", "note": "디펜딩 챔피언 격파" },
+  { "id": "m2022-1", "tournamentId": "2022", "year": 2022, "round": "조별리그", "opponent": "포르투갈", "opponentFlag": "🇵🇹", "scoreKorea": 2, "scoreOpponent": 1, "result": "W", "date": "2022-12-02", "venue": "교육시티 스타디움", "note": "황희찬 역전골" }
+]
